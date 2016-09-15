@@ -1,6 +1,7 @@
+## Unreleased
+  - Add gelf uncompressed input support for UDP
 ## 3.0.2
   - Relax constraint on logstash-core-plugin-api to >= 1.60 <= 2.99
-
 ## 3.0.1
   - Republish all the gems under jruby.
 ## 3.0.0
