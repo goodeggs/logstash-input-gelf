@@ -1,12 +1,11 @@
+## Unreleased
+  - Add gelf uncompressed input support for UDP
 ## 3.0.5
   - No user impact: bump development/testing dependency 'gelf' to v3.0.0
-
 ## 3.0.4
   - Docs: Update doc examples to use new event API syntax 
-
 ## 3.0.2
   - Relax constraint on logstash-core-plugin-api to >= 1.60 <= 2.99
-
 ## 3.0.1
   - Republish all the gems under jruby.
 ## 3.0.0
